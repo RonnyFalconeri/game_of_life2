@@ -1,0 +1,4 @@
+#gol_banner {
+    background: rgb(101,212,230);
+    background: linear-gradient(151deg, rgba(101,212,230,1) 0%, rgba(26,137,179,1) 33%, rgba(60,94,199,1) 51%, rgba(201,0,255,1) 89%);
+}
