@@ -36,4 +36,10 @@
     border-radius: 3px;
 }
 
+.setting h3 {
+    display: inline;
+    color: lightgray;
+    padding-right: 15px;
+}
+
 
